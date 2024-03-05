@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutingExample</string>
+    <string name="text_name">Hai Marcella</string>
+    <string name="text_greetings">Wanna eat something foods?</string>
+    <string name="text_greeting">what do you want eat today?</string>
+    <string name="text_name_person">Hai, Marcella!</string>
+</resources>
